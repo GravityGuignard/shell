@@ -1,6 +1,8 @@
-≈≈≈≈#!/bin/bash
+#!/bin/bash
 set -x
 
+# Dan was here :)
+ 
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
